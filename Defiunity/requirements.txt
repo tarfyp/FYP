@@ -1,0 +1,13 @@
+torch
+torchvision
+torchviz
+scikit-learn
+matplotlib
+pycocotools
+Pillow
+imblearn
+streamlit
+hypll
+fpdf
+gdown
+opencv-python
